@@ -308,7 +308,7 @@ a:focus {
   padding: 10px 15px;
   background-color: #00bbf0;
   color: #ffffff;
-  border-radius: 0;
+  border-radius: 6px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: none;
@@ -323,7 +323,7 @@ a:focus {
   padding: 10px 15px;
   background-color: #000000;
   color: #ffffff;
-  border-radius: 0;
+  border-radius: 6px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   border: none;

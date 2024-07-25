@@ -314,11 +314,11 @@ a:focus {
       }
 
       .btn1 {
-        @include hero_btn($primary1, $white, 10px, 15px, 0);
+        @include hero_btn($primary1, $white, 10px, 15px, 6px);
       }
 
       .btn2 {
-        @include hero_btn($black, $white, 10px, 15px, 0);
+        @include hero_btn($black, $white, 10px, 15px, 6px);
       }
     }
   }
@@ -408,7 +408,6 @@ a:focus {
         text-transform: uppercase;
       }
 
-      p {}
 
       a {
         color: $primary2;
@@ -428,7 +427,7 @@ a:focus {
     margin-top: 45px;
 
     a {
-      @include hero_btn($primary1, $white, 10px, 45px, 0);
+      @include hero_btn($primary1, $white, 10px, 45px, 6px);
     }
   }
 }
@@ -464,7 +463,7 @@ a:focus {
     }
 
     a {
-      @include hero_btn($primary1, $white, 10px, 45px, 0px);
+      @include hero_btn($primary1, $white, 10px, 45px, 6px);
       margin-top: 15px;
     }
   }
@@ -518,7 +517,7 @@ a:focus {
     margin-top: 45px;
 
     a {
-      @include hero_btn($primary1, $white, 10px, 45px, 0);
+      @include hero_btn($primary1, $white, 10px, 45px, 6);
     }
   }
 }

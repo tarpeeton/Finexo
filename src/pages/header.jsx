@@ -30,17 +30,9 @@ const Header = () => {
 								<span>Finexo</span>
 							</NavLink>
 
-							<button
-								className='navbar-toggler'
-								type='button'
-								data-toggle='collapse'
-								data-target='#navbarSupportedContent'
-								aria-controls='navbarSupportedContent'
-								aria-expanded='false'
-								aria-label='Toggle navigation'
-							>
-								<span className=''> </span>
-							</button>
+							<button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span className=""> </span>
+          </button>
 
 							<div
 								className='collapse navbar-collapse'
