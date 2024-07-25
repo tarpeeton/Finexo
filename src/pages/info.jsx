@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-
+import About from './about'
 const Info = () => {
 	return (
 		<section className='info_section layout_padding2'>
@@ -16,11 +16,11 @@ const Info = () => {
 								</Link>
 								<Link to=''>
 									<i className='fa fa-phone' aria-hidden='true'></i>
-									<span>Call +01 1234567890</span>
+									<span>Call +998 (91) 788-80-41</span>
 								</Link>
 								<Link to=''>
 									<i className='fa fa-envelope' aria-hidden='true'></i>
-									<span>demo@gmail.com</span>
+									<span>tarpeetonteam@gmail.com</span>
 								</Link>
 							</div>
 						</div>
@@ -56,7 +56,7 @@ const Info = () => {
 								<Link className='active' to='index.html'>
 									Home
 								</Link>
-								<Link className='' to='about.html'>
+								<Link className='' to='sdfwdfdwf'>
 									About
 								</Link>
 								<Link className='' to='service.html'>

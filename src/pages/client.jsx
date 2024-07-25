@@ -9,7 +9,7 @@ const Client = () => {
 					</h2>
 				</div>
 				<div className='carousel-wrap '>
-					<div className='owl-carousel client_owl-carousel'>
+					<div className='owl-carousel client_owl-carousel' style={{display: 'block'}}>
 						<div className='item'>
 							<div className='box'>
 								<div className='img-box'>

@@ -746,7 +746,7 @@ a:focus {
 }
 
 .client_section .owl-carousel .owl-nav {
-  display: -webkit-box;
+  display: block;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;

@@ -124,7 +124,7 @@ const Header = () => {
 										</div>
 										<div className='col-md-6'>
 											<div className='img-box'>
-												<img src='sdufnsd' alt='' />
+												<img src='https://ucarecdn.com/9b49e826-038d-49ae-a329-044db008d2f6/-/preview/1000x857/' alt='' />
 											</div>
 										</div>
 									</div>
@@ -155,7 +155,7 @@ const Header = () => {
 										</div>
 										<div className='col-md-6'>
 											<div className='img-box'>
-												<img src='images/slider-img.png' alt='' />
+												<img src='https://ucarecdn.com/9b49e826-038d-49ae-a329-044db008d2f6/-/preview/1000x857/' alt='' />
 											</div>
 										</div>
 									</div>

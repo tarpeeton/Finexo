@@ -10,7 +10,7 @@ const Footer = () => {
 		<section className="footer_section">
     <div className="container">
       <p>
-        &copy; <span id="displayYear"></span> All Rights Reserved By
+        &copy; <span id="displayYear"></span> All Rights Reserved By <br/>
         <Link to="tel:+998917888041">Rustam Rinatovich</Link>
       </p>
     </div>
