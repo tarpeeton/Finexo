@@ -4,10 +4,10 @@ import Header from './pages/header';
 
 
 function App() {
+  
   return (
     <Routes>
       <Route path='/' element={<Header />} />
-     
     </Routes>
   );
 }
